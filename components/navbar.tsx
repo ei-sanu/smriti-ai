@@ -107,7 +107,7 @@ export default function Navbar() {
               </a>
             </div>
 
-            {/* Profile Button */}
+            {/* Profilee Button */}
             <SignedIn>
               <div className="flex items-center">
                 <UserButton />
